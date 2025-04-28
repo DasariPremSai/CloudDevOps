@@ -1,1 +1,9 @@
-4/28/2025 is the Cloud Devops End Sem lab exam from 2:00PM to 5:00PM 
+4/28/2025 is the Cloud Devops End Sem lab exam from 2:00PM to 5:00PM
+
+
+
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+sum = num1 + num2
+print("The sum is:", sum)
+
